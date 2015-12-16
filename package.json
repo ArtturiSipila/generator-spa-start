@@ -1,0 +1,24 @@
+{
+  "name": "generator-spa-start",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Artturi Sipilä",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "mem-fs": "^1.1.0",
+    "mem-fs-editor": "^2.0.4",
+    "yeoman-generator": "^0.21.1",
+    "yosay": "^1.1.0"
+  }
+}
